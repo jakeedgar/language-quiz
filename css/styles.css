@@ -9,6 +9,10 @@ a {
   color: white;
 }
 
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .header {
   width: 100%;
   padding: 10px 0;
@@ -16,7 +20,6 @@ a {
   background: #03b3b3;
   color: white;
 }
-
 
 .btn-bgstroke {
   font-size: 20px;
