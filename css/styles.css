@@ -104,6 +104,15 @@ font-family: 'Open Sans', sans-serif;
 }
 
 
+
+.radio {
+  font-family: 'NimbusSanLRegular'; 
+  font-weight: normal; 
+  font-style: normal; 
+  font-size: 30px;
+}
+
+
 /* fonts for later use
 
 /* { 
