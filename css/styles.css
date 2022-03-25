@@ -33,10 +33,6 @@ a {
   color: white;
 }
 
-body {
-  font-family: 'Open Sans', sans-serif;
-}
-
 .header {
   width: 100%;
   padding: 10px 0;
@@ -94,6 +90,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .btn-dark {
+  margin-bottom: 3%;
   border-radius: 10px;
 }
 
@@ -102,11 +99,15 @@ font-family: 'Open Sans', sans-serif;
 }
 
 img {
-  /* width: 250px;
-  height: 250px; */
+  width: 20%;
+  height: 20%;
 }
 
-.form-group {
+img.ruby {
+  width: 10%;
+  height: 10%;
+}
+.quiz {
   font-family: 'NimbusSanLRegular'; 
   font-weight: normal; 
   font-style: normal; 
