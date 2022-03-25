@@ -4,6 +4,7 @@
 $(document).ready(function() {
   $("#quiz").submit(function(event) {
     event.preventDefault();
+    $("#hide").hide();
     const website = $("input:radio[name=website]:checked").val();
     const view = $("input:radio[name=view]:checked").val();
     const common = $("input:radio[name=common]:checked").val();
@@ -58,7 +59,6 @@ $(document).ready(function() {
     } else {
       $("#c").show();
     }
-
     $("#output").show(result);
   });
 });

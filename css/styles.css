@@ -3,19 +3,19 @@
   font-family: 'Open Sans', sans-serif;
 }
 
-/* #hide-banner {
+#hide-banner {
   float: right;
   margin-right: 1in;
   display: block;
   position: relative;
-  top: -22px;
+  margin-top: -7%;
   font-size: 20px;
   border: 1px solid black;
   padding: 10px 20px;
   border-radius: 10px;
   cursor: pointer;
   font-weight: 300;
-} */
+}
 
 .quiz-question {
   padding-top: 10px;
@@ -62,6 +62,7 @@ body {
 }
 
 .logo {
+  margin-left: .65in;
   width: 10%;
   height: 10%;
 }
