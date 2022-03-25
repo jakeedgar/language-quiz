@@ -3,6 +3,12 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+.quiz-question {
+  padding-top: 10px;
+  color: #4a4a4a;
+
+}
+
 a {
   padding-top: 5px;
   font-family: 'Open Sans', sans-serif;
@@ -36,9 +42,16 @@ body {
   color: white;
 }
 
+.header2 {
+  background-color: white;
+  width: 100%;
+  padding: 10px 0;
+}
 
-
-
+.logo {
+  width: 10%;
+  height: 10%;
+}
 
 /* fonts for later use
 
