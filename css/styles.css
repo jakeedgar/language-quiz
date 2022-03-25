@@ -99,13 +99,14 @@ font-family: 'Open Sans', sans-serif;
 
 #javascript, #ruby, #c {
   display: none;
-  width: 250px;
-  height: 250px;
 }
 
+img {
+  /* width: 250px;
+  height: 250px; */
+}
 
-
-.radio {
+.form-group {
   font-family: 'NimbusSanLRegular'; 
   font-weight: normal; 
   font-style: normal; 
