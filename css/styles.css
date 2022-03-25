@@ -21,7 +21,6 @@
   background-color: #079898;
   color: white;
   text-decoration: underline;
-  
 }
 .quiz-question {
   padding-top: 10px;
@@ -46,6 +45,26 @@ body {
   color: white;
 }
 
+#signup {
+color: #fff;
+float: right;
+margin-right: 2%;
+position: relative;
+padding: 15px;
+margin-top: -4%;
+display: block;
+background-color: #03b3b3;
+border-radius: 4px;
+font-family: 'Open Sans', sans-serif;
+}
+
+#signup:hover {
+  background-color: #079898;
+  color: white;
+  text-decoration: underline;
+  border: solid 1px #000;
+}
+
 .btn-bgstroke {
   font-size: 20px;
   display: inline-block;
@@ -68,7 +87,8 @@ body {
 }
 
 .logo {
-  margin-left: .65in;
+  margin-top: .5%;
+  margin-left: 5%;
   width: 10%;
   height: 10%;
 }
