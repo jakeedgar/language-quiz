@@ -1,4 +1,37 @@
+.banner {
+  padding-top: 5px;
+  font-family: 'Open Sans', sans-serif;
+}
 
+a {
+  padding-top: 5px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+.header {
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  background: #03b3b3;
+  color: white;
+}
+
+
+.btn-bgstroke {
+  font-size: 20px;
+  display: inline-block;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 300;
+}
+
+.btn-bgstroke:hover {
+  background-color: #079898;
+  color: white;
+}
 
 
 
