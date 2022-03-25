@@ -17,6 +17,12 @@
   font-weight: 300;
 }
 
+#hide-banner:hover {
+  background-color: #079898;
+  color: white;
+  text-decoration: underline;
+  
+}
 .quiz-question {
   padding-top: 10px;
   color: #4a4a4a;

@@ -1,7 +1,12 @@
 // BUSINESS LOGIC 
 
+
+
 // UI LOGIC 
 $(document).ready(function() {
+  $("#hide-banner").on("click",function() {
+    $(".header").hide();
+  });
   $("#quiz").submit(function(event) {
     event.preventDefault();
     $("#hide").hide();
@@ -59,6 +64,8 @@ $(document).ready(function() {
     } else {
       $("#c").show();
     }
+
     $("#output").show(result);
+
   });
 });
