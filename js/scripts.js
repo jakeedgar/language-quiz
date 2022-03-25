@@ -1,8 +1,3 @@
-// BUSINESS LOGIC 
-
-
-
-// UI LOGIC 
 $(document).ready(function() {
   $("#hide-banner").on("click",function() {
     $(".header").hide();

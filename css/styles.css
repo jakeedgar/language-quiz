@@ -23,8 +23,13 @@
   text-decoration: underline;
 }
 .quiz-question {
+  margin-left: -.25%;
   padding-top: 10px;
   color: #4a4a4a;
+}
+
+a.langlink{
+  color: #4a4a4a;;
 }
 
 a {
@@ -42,16 +47,16 @@ a {
 }
 
 #signup {
-color: #fff;
-float: right;
-margin-right: 6%;
-position: relative;
-padding: 15px;
-margin-top: -4%;
-display: block;
-background-color: #03b3b3;
-border-radius: 4px;
-font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  float: right;
+  margin-right: 6%;
+  position: relative;
+  padding: 15px;
+  margin-top: -4%;
+  display: block;
+  background-color: #03b3b3;
+  border-radius: 4px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #signup:hover {
@@ -98,6 +103,9 @@ font-family: 'Open Sans', sans-serif;
   display: none;
 }
 
+h3 {
+  color: #4a4a4a;
+}
 img {
   width: 20%;
   height: 20%;
