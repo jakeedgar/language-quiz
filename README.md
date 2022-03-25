@@ -24,9 +24,6 @@ Using this website, users can answer a series of questions which will guide them
 * Navigate to the top level of the directory. 
 * Open index.html in your browser. 
 
-## Link 
-
-
 ## Known Bugs
 
 * There are no known bugs at this time.

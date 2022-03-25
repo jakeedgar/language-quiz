@@ -44,7 +44,7 @@ a {
 #signup {
 color: #fff;
 float: right;
-margin-right: 2%;
+margin-right: 6%;
 position: relative;
 padding: 15px;
 margin-top: -4%;
@@ -84,7 +84,7 @@ font-family: 'Open Sans', sans-serif;
 
 .logo {
   margin-top: .5%;
-  margin-left: 5%;
+  margin-left: 11%;
   width: 10%;
   height: 10%;
 }
@@ -113,16 +113,3 @@ img.ruby {
   font-style: normal; 
   font-size: 30px;
 }
-
-
-/* fonts for later use
-
-/* { 
-  font-family: 'NimbusSanLRegular'; 
-  font-weight: normal; 
-  font-style: normal; 
-}  */
-
-  /* {
-font-family: 'Open Sans', sans-serif;
-} */
